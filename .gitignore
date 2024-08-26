@@ -51,4 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-/*menushow
+/*css
+/*img
+/*url
+/*js
